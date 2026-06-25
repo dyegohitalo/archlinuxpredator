@@ -1,0 +1,11 @@
+show=drun
+prompt=Search...
+filter_rate=15
+allow_markup=true
+no_actions=true
+halign=fill
+orientation=vertical
+content_halign=fill
+hide_scroll=true
+width=400
+lines=8

@@ -1,0 +1,8 @@
+# 1. Ignora absolutamente tudo neste diretório
+/*
+
+# 2. Abre exceção apenas para os nossos "dotfiles" customizados
+!/hypr/
+!/waybar/
+!/wofi/
+!/.gitignore
